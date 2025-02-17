@@ -1,6 +1,6 @@
 #Name: Chingizkhan Nurbolatov Yankolov
-#Date: 14th January 2025
-#Activity: Raspberry Pi Activity 1
+#Date: January 2025
+#Activity: Room Adventure Game
 """
 Game Improvements:
 - Add some obejcts inside others.
